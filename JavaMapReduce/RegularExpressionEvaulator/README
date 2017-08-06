@@ -1,0 +1,6 @@
+Problem 1 - Develop a MapReduce program to perform Distributed grep
+that counts the matches to a regex in the input file. The regex should be
+passed as program argument from command line.
+Dataset - shakespeare.tar
+Example - Let’s say, we pass [\w]{4,10}
+Then we should get count of words having length between 4 to 10
